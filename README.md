@@ -20,6 +20,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="HugeIcons" src="https://img.shields.io/badge/-Huge Icons-F7B93E?style=flat-square&logo=bitbucket&logoColor=white" />
 </p>
 
 

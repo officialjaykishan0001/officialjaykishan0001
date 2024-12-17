@@ -1,5 +1,5 @@
 ### Hi there, I'm Jay kishan
-![](https://komarev.com/ghpvc/?username=officialjaykishan0001&color=pink)
+![](https://komarev.com/ghpvc/?username=officialjaykishan0001&color=brightgreen)
 <!--
 **officialjaykishan0001/officialjaykishan0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
